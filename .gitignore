@@ -1,0 +1,13 @@
+# package directories
+node_modules
+jspm_packages
+package-lock.json
+.idea
+
+# Serverless directories
+.serverless
+
+# JS bundle
+dist
+/InputData/
+/.env
